@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">🌸 你好呀，我是 Jie Yan 🌸</h1>
 
-<!--
-**jieyan-hk/jieyan-hk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><em>一个喜欢把数字排排坐的小女孩 ✨</em></p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎀 关于我
+
+- 🍰 我叫 Jie Yan，是一个安安静静的小女孩
+- 📚 喜欢看数字跳舞，喜欢把复杂的事情慢慢理清楚
+- 🐍 正在学 Python，想把表格和计算都交给电脑去做
+- 🌷 做事不快，但会很认真地把每一件小事做好
+- ☕ 周末最喜欢一杯热可可，加一本读到一半的书
+
+## 🌈 最近的心情
+
+| 我在忙的事 | 心情 |
+| :--- | :--- |
+| 看数字、理模型 | 🧮 认真 |
+| 学写 Python | 🐍 好奇 |
+| 把想法写成小笔记 | ✏️ 开心 |
+
+## 🎵 小小的喜欢
+
+- 🌙 下雨天的窗边
+- 🧸 软软的毛绒玩具
+- 🍓 草莓味的糖果
+- 📖 安安静静读完一本书的下午
+
+## 💌 想找我吗
+
+- 工作邮箱：**Niki.yan.jie@prudential.com.hk**
+
+<p align="center">🌼 谢谢你来看我呀，祝你今天也开开心心 🌼</p>
